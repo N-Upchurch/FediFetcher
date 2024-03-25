@@ -1,6 +1,7 @@
 {
   "server": "lounge.town",
   "home-timeline-length": 200,
-  "max-followings": 80,
-  "from-notifications": 1
+  "max-followings": 429,
+  "from-notifications": 1,
+  "max-favourites": 100
 }
